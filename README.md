@@ -1,6 +1,6 @@
-# Scheduling
+# Constrained Programming Cookbook
 
-This repository contains Jupyter notebooks for defining, learning and experimenting with **scheduling problems**:
+This repository contains Jupyter notebooks for defining, learning and experimenting with **scheduling problems** using **constrained programming**:
 
 - **Job Shop Scheduling**
 - **RCPSP (Resource-Constrained Project Scheduling)**
