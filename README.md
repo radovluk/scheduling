@@ -9,10 +9,10 @@ This repository contains Jupyter notebooks for defining, learning and experiment
 
 | Topic | Default objective | Notebook | Colab |
 |---|---|---|---|
-| **Job Shop Scheduling** | Minimize project makespan | [Job Shop Scheduling](notebooks/jobshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/jobshop.ipynb) |
-| **Resource-Constrained Project Scheduling** | Minimize project makespan | [RCPSP](notebooks/rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp.ipynb) |
-| **Multi-Mode Resource-Constrained Project Scheduling** | Minimize project makespan with mode selection | [Multi-Mode RCPSP](notebooks/multimode_rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/multimode_rcpsp.ipynb) |
-| **Resource-Constrained Project Scheduling with Blocking Time** | Minimize makespan under blocking/preemption | [RCPSP with Blocking/Preemption](notebooks/rcpsp_blocking_preemption.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp_blocking_preemption.ipynb) |
+| Job Shop Scheduling | Minimize project makespan | [Job Shop Scheduling](notebooks/jobshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/jobshop.ipynb) |
+| Resource-Constrained Project Scheduling | Minimize project makespan | [RCPSP](notebooks/rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp.ipynb) |
+| Multi-Mode Resource-Constrained Project Scheduling | Minimize project makespan with mode selection | [Multi-Mode RCPSP](notebooks/multimode_rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/multimode_rcpsp.ipynb) |
+| Resource-Constrained Project Scheduling with Blocking Times | Minimize makespan| [RCPSP with Blocking/Preemption](notebooks/rcpsp_blocking_preemption.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp_blocking_preemption.ipynb) |
 
 
 
@@ -37,6 +37,8 @@ All input files for the notebooks are in the [`data/`](data/) folder.
   - `docplex.cp` — constraint programming (CP Optimizer models)
 
 - [Industrial project & machine scheduling with Constraint Programming](https://wimap.feld.cvut.cz/horde4/imp/attachment.php?id=6853ad12-efb4-475e-a898-60c19320d2a8&u=heinzvil) - *Philippe Laborie, IBM, 2021*.
+
+---
 
 ## 🚀 How to run locally
 
