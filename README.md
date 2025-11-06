@@ -7,12 +7,17 @@ This repository contains Jupyter notebooks for defining, learning and experiment
 
 ## 📒 Notebooks
 
-| Topic | Default objective | Notebook | Colab |
-|---|---|---|---|
-| Job Shop Scheduling | Minimize project makespan | [Job Shop Scheduling](notebooks/jobshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/jobshop.ipynb) |
-| Resource-Constrained Project Scheduling | Minimize project makespan | [RCPSP](notebooks/rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp.ipynb) |
-| Multi-Mode Resource-Constrained Project Scheduling | Minimize project makespan with mode selection | [Multi-Mode RCPSP](notebooks/multimode_rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/multimode_rcpsp.ipynb) |
-| Resource-Constrained Project Scheduling with Blocking Times | Minimize makespan| [RCPSP with Blocking/Preemption](notebooks/rcpsp_blocking_preemption.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp_blocking_preemption.ipynb) |
+| Topic | Default objective | Notebook | Colab | Status |
+|---|---|---|---|---|
+| Job Shop Scheduling | Minimize project makespan | [Job Shop Scheduling](notebooks/jobshop.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/jobshop.ipynb) | ✅ Done |
+| Resource-Constrained Project Scheduling | Minimize project makespan | [RCPSP](notebooks/rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp.ipynb) | ✅ Done |
+| Multi-Mode Resource-Constrained Project Scheduling | Minimize project makespan | [Multi-Mode RCPSP](notebooks/multimode_rcpsp.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/multimode_rcpsp.ipynb) | ✅ Done |
+| Resource-Constrained Project Scheduling with Blocking Times | Minimize project makespan | [RCPSP with Blocking Times](notebooks/rcpsp_blocking.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp_blocking.ipynb) | ⚙️ Not implemented |
+| Preemptive RCPSP with Blocking Times | Minimize project makespan | [Preemptive Scheduling](notebooks/preemptive_scheduling.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/preemptive_scheduling.ipynb) | ⚙️ Not implemented |
+| Resource-Constrained Project Scheduling with Setup Times | Minimize project makespan | [RCPSP with Setup Times](notebooks/rcpsp_setup.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/rcpsp_setup.ipynb) | ⚙️ Not implemented |
+| Alternative Process Plan Scheduling | Minimize project makespan | [Alternative Process Plans](notebooks/alternative_plans.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/radovluk/CP_Cookbook/blob/main/notebooks/alternative_plans.ipynb) | ⚙️ Not implemented |
+
+
 
 
 
