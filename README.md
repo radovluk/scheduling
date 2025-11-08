@@ -43,6 +43,15 @@ All input files for the notebooks are in the [`data/`](data/) folder.
 
 - [Industrial project & machine scheduling with Constraint Programming](https://wimap.feld.cvut.cz/horde4/imp/attachment.php?id=6853ad12-efb4-475e-a898-60c19320d2a8&u=heinzvil) - *Philippe Laborie, IBM, 2021*.
 
+- [ICAPS 2017: Tutorial – Philippe Laborie: Introduction to CP Optimizer for Scheduling](https://www.youtube.com/watch?v=-VY7QTnSAio)  
+  A detailed introduction to IBM’s CP Optimizer and its applications in scheduling.
+
+- [Modeling and Solving Scheduling Problems with CP Optimizer](https://www.researchgate.net/publication/275634767_Modeling_and_Solving_Scheduling_Problems_with_CP_Optimizer)  
+  ResearchGate publication describing practical modeling patterns and techniques.
+
+- [Designing Scheduling Models – IBM CP Documentation](https://www.ibm.com/docs/en/icos/22.1.1?topic=manual-designing-scheduling-models)  
+  Official IBM documentation on designing efficient scheduling models using CP Optimizer.
+
 ---
 
 ## 🚀 How to run locally
