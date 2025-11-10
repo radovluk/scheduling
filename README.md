@@ -31,7 +31,9 @@ All input files for the notebooks are in the [`data/`](data/) folder.
 
 ## 📚 Additional Resources
 
-- [PSPLIB datasets](https://www.om-db.wi.tum.de/psplib/data.html) - Standard benchmark library for project scheduling problems (JSSP, RCPSP, MRCPSP).
+- [IBM Tutorial: Getting started with Scheduling in CPLEX for Python](https://ibmdecisionoptimization.github.io/tutorials/html/Scheduling_Tutorial.html#:~:text=In%20the%20model%2C%20each%20task,the%20solution%20to%20the%20problem.)
+
+- [IBM: CPLEX for scheduling](https://www.ibm.com/docs/en/icos/22.1.2?topic=scheduling-introduction)
 
 - [Fifty years of research on resource-constrained project scheduling explored from different perspectives](https://www.sciencedirect.com/science/article/pii/S0377221725002218)  
   *Christian Artigues, Sönke Hartmann, Mario Vanhoucke,*  
@@ -49,6 +51,8 @@ All input files for the notebooks are in the [`data/`](data/) folder.
 
 
 - [Designing Scheduling Models – IBM CP Documentation](https://www.ibm.com/docs/en/icos/22.1.1?topic=manual-designing-scheduling-models)  
+
+- [PSPLIB datasets](https://www.om-db.wi.tum.de/psplib/data.html) - Standard benchmark library for project scheduling problems (JSSP, RCPSP, MRCPSP).
 
 
 ---
