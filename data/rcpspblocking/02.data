@@ -28,4 +28,4 @@
 
 # PRECEDENCE FORMAT: <num_precedences> <pred_task1> <succ_task1> <pred_task2> <succ_task2> ...
 # "0 1" means task 0 must finish before task 1 starts
-4 0 1 0 2 1 3 2 3
+5 0 1 0 2 1 3 2 3 1 2
