@@ -33,6 +33,8 @@ All input files for the notebooks are in the [`data/`](data/) folder.
 
 - [IBM Tutorial: Getting started with Scheduling in CPLEX for Python](https://ibmdecisionoptimization.github.io/tutorials/html/Scheduling_Tutorial.html#:~:text=In%20the%20model%2C%20each%20task,the%20solution%20to%20the%20problem.)
 
+- [Examples and guidelines for modeling and solving combinatorial optimization problems with IBM ILOG CP Optimizer](https://github.com/plaborie/cpoptimizer-examples/tree/main) - Github repo of Philippe Laborie with resources 
+
 - [ICAPS 2017: Video Tutorial – Philippe Laborie: Introduction to CP Optimizer for Scheduling](https://www.youtube.com/watch?v=-VY7QTnSAio), [Slides from the video](https://icaps17.icaps-conference.org/tutorials/T3-Introduction-to-CP-Optimizer-for-Scheduling.pdf)
 
 - [IBM: CPLEX for scheduling](https://www.ibm.com/docs/en/icos/22.1.2?topic=scheduling-introduction)
@@ -53,6 +55,7 @@ All input files for the notebooks are in the [`data/`](data/) folder.
 
 - [OR&S project database datasets](https://www.projectmanagement.ugent.be/research/data) 
 
+- [OptalCP Benchmarks](https://github.com/ScheduleOpt/optalcp-benchmarks/tree/main), [Benchmarks against IBM ILOG CP Optimizer](https://optalcp.com/docs/benchmarks/)
 ---
 
 ## 🚀 How to run locally
